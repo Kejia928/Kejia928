@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Kejia928/Kejia928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Kejia Zhang**, a PhD student at EPCC, the University of Edinburgh. I am working at the intersection of **Generative AI**, **Human-Computer Interaction (HCI)** and **AI for education**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **AI-powered storytelling systems for children’s learning**
+- 🌱 I’m exploring **multimodal learning, generative AI, and interactive systems**
+- 👯 I’m looking to collaborate on **HCI, educational technology, and AI-driven creativity tools**
+- 📫 How to reach me: **K.Zhang-61@sms.ed.ac.uk**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Research Interests
+- Human-Computer Interaction (HCI)  
+- AI for Education  
+- Interactive Storytelling  
+- Multimodal Learning Systems
+- Generative AI
