@@ -5,7 +5,7 @@ I’m **Kejia Zhang**, a PhD student at EPCC, the University of Edinburgh. I am 
 - 🔭 I’m currently working on **AI-powered storytelling systems for children’s learning**
 - 🌱 I’m exploring **multimodal learning, generative AI, and interactive systems**
 - 👯 I’m looking to collaborate on **HCI, educational technology, and AI-driven creativity tools**
-- 📫 How to reach me: **K.Zhang-61@sms.ed.ac.uk**
+- 📫 How to reach me: **Kejia.Zhang.ed.ac.uk**
 
 ### 🧠 Research Interests
 - Human-Computer Interaction (HCI)  
